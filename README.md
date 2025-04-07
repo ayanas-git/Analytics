@@ -1,2 +1,3 @@
-# Analytics
-Various analysis and analytics
+# Multi-Platform Analytics
+
+Showcases my adaptability and resourcefulness across multiple analytics platforms.
